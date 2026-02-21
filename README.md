@@ -17,7 +17,6 @@ Custom WordPress website developed for Real Estate Solutions Udaipur, a premium 
 - About section highlighting luxury-inspired city living, modern design, urban sophistication, spacious layouts, prime locations, eco-friendly/sustainable elements, smart technology, and excellent connectivity/amenities
 - Stats counters: 5+ Years Experience, 8800+ Sq. Area Coverage, 366+ Apartments, 680+ Car Parkings, 100+ Happy Clients, 98% Success Rate, 20+ Projects Completed
 - Testimonials carousel with real client quotes on smooth processes, honest/professional team, clear documentation, dream properties, and investment value
-- Contact/Appointment section with phone (+91-94620 22362) and inquiry/booking form
 - Responsive, modern luxury design optimized for property visuals (mobile-first)
 - SEO-friendly for local Udaipur real estate searches (plots, flats, luxury apartments)
 
